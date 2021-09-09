@@ -1,0 +1,22 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: azure;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+span{
+    font-weight: 700;
+    margin: 0;
+}
+form {
+    width: 500px;
+}
+
+form button {
+    margin-top: 10px;
+}
